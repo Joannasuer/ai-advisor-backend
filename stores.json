@@ -1,0 +1,14 @@
+[
+  {"name":"Amazon","region":"Worldwide","affiliate":"YOUR_AMAZON_ASSOCIATES_TAG","api_key":"YOUR_AMAZON_API_KEY"},
+  {"name":"AliExpress","region":"Worldwide","affiliate":"YOUR_ALIEXPRESS_AFFILIATE","api_key":"YOUR_ALIEXPRESS_API_KEY"},
+  {"name":"eBay","region":"Worldwide","affiliate":"YOUR_EBAY_AFFILIATE","api_key":"YOUR_EBAY_API_KEY"},
+  {"name":"Trendyol","region":"Turkey","affiliate":"YOUR_TRENDYOL_AFFILIATE","api_key":"YOUR_TRENDYOL_API_KEY"},
+  {"name":"Namshi","region":"MENA","affiliate":"YOUR_NAMSHI_AFFILIATE","api_key":"YOUR_NAMSHI_API_KEY"},
+  {"name":"Zalando","region":"Europe","affiliate":"YOUR_ZALANDO_AFFILIATE","api_key":"YOUR_ZALANDO_API_KEY"},
+  {"name":"ASOS","region":"Worldwide","affiliate":"YOUR_ASOS_AFFILIATE","api_key":"YOUR_ASOS_API_KEY"},
+  {"name":"Shopee","region":"Southeast Asia","affiliate":"YOUR_SHOPEE_AFFILIATE","api_key":"YOUR_SHOPEE_API_KEY"},
+  {"name":"Lazada","region":"Southeast Asia","affiliate":"YOUR_LAZADA_AFFILIATE","api_key":"YOUR_LAZADA_API_KEY"},
+  {"name":"Newegg","region":"Worldwide","affiliate":"YOUR_NEWEGG_AFFILIATE","api_key":"YOUR_NEWEGG_API_KEY"},
+  {"name":"Etsy","region":"Worldwide","affiliate":"YOUR_ETSY_AFFILIATE","api_key":"YOUR_ETSY_API_KEY"},
+  {"name":"Walmart","region":"USA/Worldwide","affiliate":"YOUR_WALMART_AFFILIATE","api_key":"YOUR_WALMART_API_KEY"}
+]
